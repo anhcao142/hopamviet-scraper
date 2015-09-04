@@ -1,0 +1,680 @@
+{
+    "urls": [
+        {
+            "name": "Bạn tôi ơi",
+            "url": "http://hopamviet.com/chord/download/22532.html"
+        },
+        {
+            "name": "Melancholy (Daisy)",
+            "url": "http://hopamviet.com/chord/download/22592.html"
+        },
+        {
+            "name": "Dòng sông quê em dòng sông quê anh",
+            "url": "http://hopamviet.com/chord/download/22553.html"
+        },
+        {
+            "name": "Tình khúc",
+            "url": "http://hopamviet.com/chord/download/22692.html"
+        },
+        {
+            "name": "Sao vội nhạt phai",
+            "url": "http://hopamviet.com/chord/download/22544.html"
+        },
+        {
+            "name": "Nhớ bến Đà Giang",
+            "url": "http://hopamviet.com/chord/download/22599.html"
+        },
+        {
+            "name": "Biết ra sao ngày sau (Que sera sera - What will be will be)",
+            "url": "http://hopamviet.com/chord/download/21722.html"
+        },
+        {
+            "name": "Thương nhớ về Đà Lạt",
+            "url": "http://hopamviet.com/chord/download/21243.html"
+        },
+        {
+            "name": "Cõi mơ (Luân vũ ngày mưa)",
+            "url": "http://hopamviet.com/chord/download/22230.html"
+        },
+        {
+            "name": "Ta đã từng",
+            "url": "http://hopamviet.com/chord/download/21825.html"
+        },
+        {
+            "name": "Trăng sáng trong làng",
+            "url": "http://hopamviet.com/chord/download/20791.html"
+        },
+        {
+            "name": "Ai về quê tôi",
+            "url": "http://hopamviet.com/chord/download/19761.html"
+        },
+        {
+            "name": "Giọt lệ thiên thu",
+            "url": "http://hopamviet.com/chord/download/20142.html"
+        },
+        {
+            "name": "Bâng khuâng điều gì",
+            "url": "http://hopamviet.com/chord/download/19575.html"
+        },
+        {
+            "name": "Đêm bây giờ đêm mai",
+            "url": "http://hopamviet.com/chord/download/19941.html"
+        },
+        {
+            "name": "Khúc Hát Mùa Xuân"
+        },
+        {
+            "name": "Lời ru tình",
+            "url": "http://hopamviet.com/chord/download/20041.html"
+        },
+        {
+            "name": "See you again",
+            "url": "http://hopamviet.com/chord/download/19557.html"
+        },
+        {
+            "name": "Bụi bay vào mắt",
+            "url": "http://hopamviet.com/chord/download/19566.html"
+        },
+        {
+            "name": "Và như thế ta đã yêu nhau",
+            "url": "http://hopamviet.com/chord/download/19271.html"
+        },
+        {
+            "name": "Tình yêu thiết tha (La vie c'est une histoire d'amour)",
+            "url": "http://hopamviet.com/chord/download/18876.html"
+        },
+        {
+            "name": "Mùa xuân trên trên quê hương",
+            "url": "http://hopamviet.com/chord/download/18969.html"
+        },
+        {
+            "name": "Tiếng đàn bầu",
+            "url": "http://hopamviet.com/chord/download/18849.html"
+        },
+        {
+            "name": "Em hãy về quê anh",
+            "url": "http://hopamviet.com/chord/download/19179.html"
+        },
+        {
+            "name": "Áo dài quê hương",
+            "url": "http://hopamviet.com/chord/download/18922.html"
+        },
+        {
+            "name": "Xoá tên người tình",
+            "url": "http://hopamviet.com/chord/download/18687.html"
+        },
+        {
+            "name": "Mối tình chiều mưa bay",
+            "url": "http://hopamviet.com/chord/download/19253.html"
+        },
+        {
+            "name": "Tám vạn sáu ngàn bốn trăm lần nhớ em",
+            "url": "http://hopamviet.com/chord/download/19183.html"
+        },
+        {
+            "name": "Dâng Hoa",
+            "url": "http://hopamviet.com/chord/download/18661.html"
+        },
+        {
+            "name": "Ta yêu em lầm lỡ",
+            "url": "http://hopamviet.com/chord/download/18291.html"
+        },
+        {
+            "name": "Thuyền mơ (Santa Lucia)",
+            "url": "http://hopamviet.com/chord/download/17713.html"
+        },
+        {
+            "name": "Hạ hồng",
+            "url": "http://hopamviet.com/chord/download/18248.html"
+        },
+        {
+            "name": "Thuyền mơ",
+            "url": "http://hopamviet.com/chord/download/17711.html"
+        },
+        {
+            "name": "Rừng xanh xanh mãi",
+            "url": "http://hopamviet.com/chord/download/17283.html"
+        },
+        {
+            "name": "Làng tôi",
+            "url": "http://hopamviet.com/chord/download/17169.html"
+        },
+        {
+            "name": "Tà áo Văn Quân",
+            "url": "http://hopamviet.com/chord/download/17092.html"
+        },
+        {
+            "name": "My everything",
+            "url": "http://hopamviet.com/chord/download/17042.html"
+        },
+        {
+            "name": "Khuôn mặt đáng thương",
+            "url": "http://hopamviet.com/chord/download/17273.html"
+        },
+        {
+            "name": "Bến xuân xanh",
+            "url": "http://hopamviet.com/chord/download/16639.html"
+        },
+        {
+            "name": "Con đường có lá me bay",
+            "url": "http://hopamviet.com/chord/download/16632.html"
+        },
+        {
+            "name": "Quê em miền trung du",
+            "url": "http://hopamviet.com/chord/download/15958.html"
+        },
+        {
+            "name": "Xác em nay ở phương nào",
+            "url": "http://hopamviet.com/chord/download/16544.html"
+        },
+        {
+            "name": "Tình ca mùa xuân",
+            "url": "http://hopamviet.com/chord/download/15877.html"
+        },
+        {
+            "name": "Xuân tha hương xuân lạc xứ",
+            "url": "http://hopamviet.com/chord/download/16610.html"
+        },
+        {
+            "name": "Mừng xuân về",
+            "url": "http://hopamviet.com/chord/download/15834.html"
+        },
+        {
+            "name": "Tình yêu và huyền thoại",
+            "url": "http://hopamviet.com/chord/download/15964.html"
+        },
+        {
+            "name": "Không phải dạng vừa đâu",
+            "url": "http://hopamviet.com/chord/download/15719.html"
+        },
+        {
+            "name": "Góp lá mùa xuân",
+            "url": "http://hopamviet.com/chord/download/15897.html"
+        },
+        {
+            "name": "Hỏi em",
+            "url": "http://hopamviet.com/chord/download/15592.html"
+        },
+        {
+            "name": "Không bao giờ bó tay 2",
+            "url": "http://hopamviet.com/chord/download/15452.html"
+        },
+        {
+            "name": "Dòng sông xanh (Le beau Danube bleu)",
+            "url": "http://hopamviet.com/chord/download/14919.html"
+        },
+        {
+            "name": "Người đi xây hồ Kẻ Gỗ",
+            "url": "http://hopamviet.com/chord/download/15421.html"
+        },
+        {
+            "name": "Cuộc đời hoài phí",
+            "url": "http://hopamviet.com/chord/download/15223.html"
+        },
+        {
+            "name": "Hai hàng cây so đũa",
+            "url": "http://hopamviet.com/chord/download/15241.html"
+        },
+        {
+            "name": "Lưu đày",
+            "url": "http://hopamviet.com/chord/download/15249.html"
+        },
+        {
+            "name": "Bài luân vũ mùa mưa (The last waltz)",
+            "url": "http://hopamviet.com/chord/download/14558.html"
+        },
+        {
+            "name": "Đêm chôn dầu vượt biển",
+            "url": "http://hopamviet.com/chord/download/14587.html"
+        },
+        {
+            "name": "Theo lá vàng bay",
+            "url": "http://hopamviet.com/chord/download/14659.html"
+        },
+        {
+            "name": "Anh đã hiểu tình em",
+            "url": "http://hopamviet.com/chord/download/14555.html"
+        },
+        {
+            "name": "Cho em một lần yêu",
+            "url": "http://hopamviet.com/chord/download/14832.html"
+        },
+        {
+            "name": "Đêm Thánh vô cùng (Silent Night)",
+            "url": "http://hopamviet.com/chord/download/13217.html"
+        },
+        {
+            "name": "Cung đàn xưa",
+            "url": "http://hopamviet.com/chord/download/14341.html"
+        },
+        {
+            "name": "Ngày nay không còn bé",
+            "url": "http://hopamviet.com/chord/download/13846.html"
+        },
+        {
+            "name": "Ở kiếp sau anh vẫn yêu em",
+            "url": "http://hopamviet.com/chord/download/13392.html"
+        },
+        {
+            "name": "Hai ba năm",
+            "url": "http://hopamviet.com/chord/download/14108.html"
+        },
+        {
+            "name": "Tình yêu nào phải trò chơi 2",
+            "url": "http://hopamviet.com/chord/download/13412.html"
+        },
+        {
+            "name": "Tình yêu nào phải trò chơi 1",
+            "url": "http://hopamviet.com/chord/download/13398.html"
+        },
+        {
+            "name": "Some days",
+            "url": "http://hopamviet.com/chord/download/13136.html"
+        },
+        {
+            "name": "Yêu em dĩ vãng",
+            "url": "http://hopamviet.com/chord/download/13046.html"
+        },
+        {
+            "name": "Người ra đi vì đâu",
+            "url": "http://hopamviet.com/chord/download/13193.html"
+        },
+        {
+            "name": "Bài ca hy vọng",
+            "url": "http://hopamviet.com/chord/download/12835.html"
+        },
+        {
+            "name": "Yêu lầm",
+            "url": "http://hopamviet.com/chord/download/12527.html"
+        },
+        {
+            "name": "Mai Hoa (梅花)",
+            "url": "http://hopamviet.com/chord/download/12429.html"
+        },
+        {
+            "name": "Ngày xưa",
+            "url": "http://hopamviet.com/chord/download/12736.html"
+        },
+        {
+            "name": "Chợt thấy",
+            "url": "http://hopamviet.com/chord/download/12815.html"
+        },
+        {
+            "name": "Hoa may",
+            "url": "http://hopamviet.com/chord/download/12403.html"
+        },
+        {
+            "name": "Áng mây chiều",
+            "url": "http://hopamviet.com/chord/download/12935.html"
+        },
+        {
+            "name": "Dòng An Giang",
+            "url": "http://hopamviet.com/chord/download/12375.html"
+        },
+        {
+            "name": "Khúc hát thanh xuân (When we were young)",
+            "url": "http://hopamviet.com/chord/download/12111.html"
+        },
+        {
+            "name": "Chắc ai đó sẽ về",
+            "url": "http://hopamviet.com/chord/download/12251.html"
+        },
+        {
+            "name": "Nắng ấm quê hương",
+            "url": "http://hopamviet.com/chord/download/11643.html"
+        },
+        {
+            "name": "Nụ cười sơn cước",
+            "url": "http://hopamviet.com/chord/download/11188.html"
+        },
+        {
+            "name": "Trường làng tôi",
+            "url": "http://hopamviet.com/chord/download/11120.html"
+        },
+        {
+            "name": "Mùa thu ru em",
+            "url": "http://hopamviet.com/chord/download/10556.html"
+        },
+        {
+            "name": "Dường như ta đã",
+            "url": "http://hopamviet.com/chord/download/10946.html"
+        },
+        {
+            "name": "Nhạc rừng",
+            "url": "http://hopamviet.com/chord/download/10793.html"
+        },
+        {
+            "name": "Ngày dài trên quê hương",
+            "url": "http://hopamviet.com/chord/download/10915.html"
+        },
+        {
+            "name": "Ngày em hai mươi tuổi",
+            "url": "http://hopamviet.com/chord/download/11043.html"
+        },
+        {
+            "name": "Những gì sẽ đem theo vào cõi chết",
+            "url": "http://hopamviet.com/chord/download/10547.html"
+        },
+        {
+            "name": "Xinh tươi Việt Nam",
+            "url": "http://hopamviet.com/chord/download/10459.html"
+        },
+        {
+            "name": "Ngày đầu tiên đi học",
+            "url": "http://hopamviet.com/chord/download/10161.html"
+        },
+        {
+            "name": "Giữa Mạc Tư Khoa nghe câu hò Hà Tĩnh",
+            "url": "http://hopamviet.com/chord/download/9881.html"
+        },
+        {
+            "name": "Cho con",
+            "url": "http://hopamviet.com/chord/download/10366.html"
+        },
+        {
+            "name": "Rong chơi cuối trời quên lãng",
+            "url": "http://hopamviet.com/chord/download/10393.html"
+        },
+        {
+            "name": "Con kênh xanh xanh",
+            "url": "http://hopamviet.com/chord/download/9995.html"
+        },
+        {
+            "name": "Anh sai rồi",
+            "url": "http://hopamviet.com/chord/download/10116.html"
+        },
+        {
+            "name": "Đường xưa",
+            "url": "http://hopamviet.com/chord/download/9700.html"
+        },
+        {
+            "name": "Đà Lạt trong niềm nhớ",
+            "url": "http://hopamviet.com/chord/download/10356.html"
+        },
+        {
+            "name": "Mẹ yêu con",
+            "url": "http://hopamviet.com/chord/download/9453.html"
+        },
+        {
+            "name": "Hãy yêu nhau đi",
+            "url": "http://hopamviet.com/chord/download/9433.html"
+        },
+        {
+            "name": "Lời mẹ ru",
+            "url": "http://hopamviet.com/chord/download/9237.html"
+        },
+        {
+            "name": "Chuyện hai người lính",
+            "url": "http://hopamviet.com/chord/download/8853.html"
+        },
+        {
+            "name": "Xuân và tuổi trẻ",
+            "url": "http://hopamviet.com/chord/download/9113.html"
+        },
+        {
+            "name": "Mai",
+            "url": "http://hopamviet.com/chord/download/9210.html"
+        },
+        {
+            "name": "Ánh lửa hồng"
+        },
+        {
+            "name": "Ngày ấy mình yêu nhau",
+            "url": "http://hopamviet.com/chord/download/8712.html"
+        },
+        {
+            "name": "Tình ta biển bạc đồng xanh",
+            "url": "http://hopamviet.com/chord/download/8949.html"
+        },
+        {
+            "name": "Tình hận (Delilah)",
+            "url": "http://hopamviet.com/chord/download/17289.html"
+        },
+        {
+            "name": "Khi người lớn cô đơn",
+            "url": "http://hopamviet.com/chord/download/8501.html"
+        },
+        {
+            "name": "Người lính trẻ",
+            "url": "http://hopamviet.com/chord/download/8934.html"
+        },
+        {
+            "name": "Bụi phấn",
+            "url": "http://hopamviet.com/chord/download/8183.html"
+        },
+        {
+            "name": "Từ khúc",
+            "url": "http://hopamviet.com/chord/download/8072.html"
+        },
+        {
+            "name": "Chỉ chừng đó thôi",
+            "url": "http://hopamviet.com/chord/download/7944.html"
+        },
+        {
+            "name": "Happy birthday",
+            "url": "http://hopamviet.com/chord/download/8164.html"
+        },
+        {
+            "name": "Ly rượu mừng",
+            "url": "http://hopamviet.com/chord/download/7664.html"
+        },
+        {
+            "name": "Quán bên đường",
+            "url": "http://hopamviet.com/chord/download/8140.html"
+        },
+        {
+            "name": "Làm thơ tình em đọc",
+            "url": "http://hopamviet.com/chord/download/7863.html"
+        },
+        {
+            "name": "Bây giờ là tháng mấy 2",
+            "url": "http://hopamviet.com/chord/download/7469.html"
+        },
+        {
+            "name": "Người em nhỏ",
+            "url": "http://hopamviet.com/chord/download/7597.html"
+        },
+        {
+            "name": "Thương về xứ Huế",
+            "url": "http://hopamviet.com/chord/download/7427.html"
+        },
+        {
+            "name": "Mùa thu Paris",
+            "url": "http://hopamviet.com/chord/download/7080.html"
+        },
+        {
+            "name": "Việt Nam quê hương tôi",
+            "url": "http://hopamviet.com/chord/download/6649.html"
+        },
+        {
+            "name": "Đảng đã cho ta một mùa xuân",
+            "url": "http://hopamviet.com/chord/download/6643.html"
+        },
+        {
+            "name": "Dạ khúc",
+            "url": "http://hopamviet.com/chord/download/6782.html"
+        },
+        {
+            "name": "Nhật ký của mẹ",
+            "url": "http://hopamviet.com/chord/download/7065.html"
+        },
+        {
+            "name": "Bước chân lẻ loi",
+            "url": "http://hopamviet.com/chord/download/7279.html"
+        },
+        {
+            "name": "Mưa",
+            "url": "http://hopamviet.com/chord/download/7242.html"
+        },
+        {
+            "name": "Đi qua vùng cỏ non",
+            "url": "http://hopamviet.com/chord/download/6466.html"
+        },
+        {
+            "name": "Đêm độc thoại",
+            "url": "http://hopamviet.com/chord/download/6459.html"
+        },
+        {
+            "name": "Mùa xuân đầu tiên",
+            "url": "http://hopamviet.com/chord/download/6540.html"
+        },
+        {
+            "name": "Lãng du (L'avventura)",
+            "url": "http://hopamviet.com/chord/download/15910.html"
+        },
+        {
+            "name": "Cuối cùng cho một tình yêu",
+            "url": "http://hopamviet.com/chord/download/5886.html"
+        },
+        {
+            "name": "Ướt mi",
+            "url": "http://hopamviet.com/chord/download/6333.html"
+        },
+        {
+            "name": "Điệu buồn dang dở",
+            "url": "http://hopamviet.com/chord/download/5950.html"
+        },
+        {
+            "name": "Quê hương",
+            "url": "http://hopamviet.com/chord/download/5486.html"
+        },
+        {
+            "name": "Cha",
+            "url": "http://hopamviet.com/chord/download/6279.html"
+        },
+        {
+            "name": "Người mẹ hiền yêu dấu (Maman Oh Maman)",
+            "url": "http://hopamviet.com/chord/download/5992.html"
+        },
+        {
+            "name": "Trời về đêm mưa",
+            "url": "http://hopamviet.com/chord/download/5802.html"
+        },
+        {
+            "name": "Thoi tơ",
+            "url": "http://hopamviet.com/chord/download/5246.html"
+        },
+        {
+            "name": "Hai năm tình lận đận",
+            "url": "http://hopamviet.com/chord/download/5261.html"
+        },
+        {
+            "name": "Huyền thoại người con gái",
+            "url": "http://hopamviet.com/chord/download/5226.html"
+        },
+        {
+            "name": "Thương tình ca",
+            "url": "http://hopamviet.com/chord/download/4840.html"
+        },
+        {
+            "name": "Ngày đó chúng mình",
+            "url": "http://hopamviet.com/chord/download/4755.html"
+        },
+        {
+            "name": "Hoa rụng ven sông",
+            "url": "http://hopamviet.com/chord/download/4932.html"
+        },
+        {
+            "name": "Đừng xa nhau",
+            "url": "http://hopamviet.com/chord/download/4833.html"
+        },
+        {
+            "name": "Giọt mưa trên lá",
+            "url": "http://hopamviet.com/chord/download/4751.html"
+        },
+        {
+            "name": "Ngày xưa Hoàng Thị",
+            "url": "http://hopamviet.com/chord/download/5033.html"
+        },
+        {
+            "name": "Mùa thu xa em",
+            "url": "http://hopamviet.com/chord/download/5187.html"
+        },
+        {
+            "name": "Thu vàng",
+            "url": "http://hopamviet.com/chord/download/3986.html"
+        },
+        {
+            "name": "Lời gọi chân mây",
+            "url": "http://hopamviet.com/chord/download/4175.html"
+        },
+        {
+            "name": "Thuyền và biển",
+            "url": "http://hopamviet.com/chord/download/3813.html"
+        },
+        {
+            "name": "Tuổi đá buồn",
+            "url": "http://hopamviet.com/chord/download/2936.html"
+        },
+        {
+            "name": "Bay đi cánh chim biển",
+            "url": "http://hopamviet.com/chord/download/2771.html"
+        },
+        {
+            "name": "Paris có gì lạ không em",
+            "url": "http://hopamviet.com/chord/download/3414.html"
+        },
+        {
+            "name": "Sao vẫn còn mưa rơi",
+            "url": "http://hopamviet.com/chord/download/3516.html"
+        },
+        {
+            "name": "Thà như giọt mưa",
+            "url": "http://hopamviet.com/chord/download/3353.html"
+        },
+        {
+            "name": "Ngàn thu áo tím",
+            "url": "http://hopamviet.com/chord/download/3723.html"
+        },
+        {
+            "name": "Nhỏ ơi",
+            "url": "http://hopamviet.com/chord/download/3399.html"
+        },
+        {
+            "name": "Thương một người",
+            "url": "http://hopamviet.com/chord/download/2558.html"
+        },
+        {
+            "name": "Nhớ mùa thu Hà Nội",
+            "url": "http://hopamviet.com/chord/download/2679.html"
+        },
+        {
+            "name": "Giàn thiên lý đã xa (Scarborough Fair)",
+            "url": "http://hopamviet.com/chord/download/4799.html"
+        },
+        {
+            "name": "Phiên chợ xa (Scarborough Fair)",
+            "url": "http://hopamviet.com/chord/download/1758.html"
+        },
+        {
+            "name": "Tình nồng cháy (Over and over)",
+            "url": "http://hopamviet.com/chord/download/1637.html"
+        },
+        {
+            "name": "Để gió cuốn đi",
+            "url": "http://hopamviet.com/chord/download/2098.html"
+        },
+        {
+            "name": "Em hiền như Ma Soeur",
+            "url": "http://hopamviet.com/chord/download/695.html"
+        },
+        {
+            "name": "Bài không tên số 7",
+            "url": "http://hopamviet.com/chord/download/500.html"
+        },
+        {
+            "name": "Cây đàn bỏ quên",
+            "url": "http://hopamviet.com/chord/download/2015.html"
+        },
+        {
+            "name": "Ta chẳng còn ai",
+            "url": "http://hopamviet.com/chord/download/966.html"
+        },
+        {
+            "name": "Bài không tên số 1",
+            "url": "http://hopamviet.com/chord/download/469.html"
+        }
+    ],
+    "count": 169,
+    "type": "valse"
+}
